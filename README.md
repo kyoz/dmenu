@@ -8,6 +8,7 @@ Patchs:
   - [border-4.9](https://tools.suckless.org/dmenu/patches/border/)
   - [case-insensitive-20200523-db6093f](https://tools.suckless.org/dmenu/patches/case-insensitive/)
   - [center-4.8](https://tools.suckless.org/dmenu/patches/center/)
+  - [fuzzymatch-4.9](https://tools.suckless.org/dmenu/patches/fuzzymatch/)
 
 ## Requirements
 
