@@ -6,6 +6,7 @@ Base on [dmenu-5.0](https://dl.suckless.org/tools/dmenu-5.0.tar.gz) version.
 
 Patchs:
   - [border-4.9](https://tools.suckless.org/dmenu/patches/border/)
+  - [case-insensitive-20200523-db6093f](https://tools.suckless.org/dmenu/patches/case-insensitive/)
 
 ## Requirements
 
