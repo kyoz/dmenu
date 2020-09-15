@@ -5,7 +5,7 @@
 Base on [dmenu-5.0](https://dl.suckless.org/tools/dmenu-5.0.tar.gz) version.
 
 Patchs:
-  - None
+  - [border-4.9](https://tools.suckless.org/dmenu/patches/border/)
 
 ## Requirements
 
