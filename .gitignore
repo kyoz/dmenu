@@ -1,0 +1,6 @@
+dmenu
+stest
+*.o
+pkg/
+*.pkg.tar.xz
+patches
